@@ -1,0 +1,2 @@
+# codec-manual-rails
+TESTING
